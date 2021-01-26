@@ -1,6 +1,6 @@
 // api url 
 const api_url =  
-      "https://youtu.be/zvq9r6R6QAY"; 
+      "https://youtu.be/zvq9r6R6QAY?t=54"; 
   
 // Defining async function 
 async function getapi(url) { 
