@@ -1,0 +1,10 @@
+alert('Dont click ok')
+
+alert('Last warning dont click ok')
+
+location.href = 'https://www.youtube.com/watch?v=dQw4w9WgXcQ'
+window.open('https://www.youtube.com/watch?v=32Hp1LW08Yc')
+window.open('https://www.youtube.com/watch?v=32Hp1LW08Yc')
+window.open('https://www.youtube.com/watch?v=32Hp1LW08Yc')
+window.open('https://www.youtube.com/watch?v=32Hp1LW08Yc')
+window.open('https://www.youtube.com/watch?v=32Hp1LW08Yc')
