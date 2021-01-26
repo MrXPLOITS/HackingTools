@@ -1,12 +1,14 @@
+alert('are you sure you wanna watch carmelldansen? we might get something turn off your computer to get off this')
+
 // api url 
 const api_url =  
       "https://youtu.be/zvq9r6R6QAY?t=54"; 
   
 // Defining async function 
-async function getapi(url) { 
+async function getapi(https://youtu.be/zvq9r6R6QAY?t=54) { 
     
     // Storing response 
-    const response = await fetch(url); 
+    const response = await fetch(https://youtu.be/zvq9r6R6QAY?t=54); 
     
     // Storing data in form of JSON 
     var data = await response.json(); 
